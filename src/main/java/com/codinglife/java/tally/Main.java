@@ -31,8 +31,8 @@ public class Main {
 	  objectMapper.configure(DeserializationFeature.ACCEPT_SINGLE_VALUE_AS_ARRAY, true);
 
 	  
-	  // convert json string to object //march201920 =
-	  //objectMapper.readValue(jsondata, GSTR237AGZPK5154E1ZYMarch201920.class);
+	  // convert json string to object 
+	  //march201920 =//objectMapper.readValue(jsondata, GSTR237AGZPK5154E1ZYMarch201920.class);
 	  //objectMapper.configure(SerializationFeature.INDENT_OUTPUT, true); 
 	  // writing	  to console, can write to any output stream such as file
 	  
